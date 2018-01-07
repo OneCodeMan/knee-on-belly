@@ -6,6 +6,9 @@ import './styles.css';
 
 const Main = () => (
   <div>
+    <h1 className="project-title">
+      Psych 2AP3 study guide
+    </h1>
     {appData.topics.map((topic, i) => {
       return (
         <div key={i}>
