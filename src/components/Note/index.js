@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './styles.css';
 
 const Note = ({ term, definition }) => {
   return (
@@ -7,9 +8,14 @@ const Note = ({ term, definition }) => {
           {term}
         </p>
 
-        <p class="definition">
-          {definition}
-        </p>
+        <ul class="definition">
+          {definition.map((point, i) => {
+            return (
+              <li key={i} dangerouslySetInnerHTML={ {__html: point} }>
+              </li>
+            );
+          })}
+        </ul>
       </div>
   );
 }

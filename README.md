@@ -1,7 +1,8 @@
 ## TODO
 
-- [ ] Style term title
-- [ ] Style term definition
+- [x] Style term title
+- [x] Style term definition
+- [x] Make definition support HTML
 - [ ] Shuffle notes
 - [ ] 'Study Mode' where definitions are blacked out
 - [ ] Create routes for certain topics

@@ -6,31 +6,31 @@
       "content": [
         {
           "term": "Impairment criterion",
-          "definition": "Symptoms impair social, occupational, or other domains of functioning"
+          "definition": ["Symptoms impair social, occupational, or other domains of functioning"]
         },
         {
           "term": "Personal distress criterion",
-          "definition": "Symptoms cause significant concern for the individual"
+          "definition": ["Symptoms cause significant concern for the individual"]
         },
         {
           "term": "Medical/Biomedical model of psychopathology",
-          "definition": "Abnormality is caused by physical problems in the brain. Treatment: pharmacological and physical treatments"
+          "definition": ["Abnormality is caused by physical problems in the brain.", "Treatment: pharmacological and physical treatments"]
         },
         {
           "term": "Psychodynamic model",
-          "definition": "Abnormality is caused by unconscious conflict. Treatment: bring conflict into consciousness"
+          "definition": ["Abnormality is caused by unconscious conflict.", "Treatment: bring conflict into consciousness"]
         },
         {
           "term": "Behavioral model",
-          "definition": "Abnormal behaviors are the disorder, which are acquired by learning. Treatment: change reward conditions to product extinction or relearning"
+          "definition": ["Abnormal behaviors are the disorder, which are acquired by learning.", "Treatment: change reward conditions to product extinction or relearning"]
         },
         {
           "term": "Sociocultural model",
-          "definition": "Abnormality results from social pressures, higher rates at low socioeconomic levels. Treatment: changing external conditions"
+          "definition": ["Abnormality results from social pressures, higher rates at low socioeconomic levels.", "Treatment: changing external conditions"]
         },
         {
           "term": "Cognitive model",
-          "definition": "Abnormality results from maladaptive ways of thinking, interpreting. Treatment: change way of thinking through practice and reward"
+          "definition": ["Abnormality results from maladaptive ways of thinking, interpreting.", "Treatment: change way of thinking through practice and reward"]
         }
       ]
     },
@@ -38,12 +38,8 @@
       "topic_title": "ADHD",
       "content": [
         {
-          "term": "term here",
-          "definition": "this is a definition"
-        },
-        {
-          "term": "term here",
-          "definition": "this is a definition"
+          "term": "Cognitive model",
+          "definition": ["Abnormality results from maladaptive ways of thinking, interpreting.", "Treatment: change way of thinking through practice and reward"]
         }
       ]
 
