@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
+import RaisedButton from 'material-ui/RaisedButton';
+import AVShuffle from 'material-ui/svg-icons/av/shuffle';
 import Note from '../Note';
 import Toggle from 'react-toggle';
-import "react-toggle/style.css"
+import 'react-toggle/style.css';
 import './styles.css';
 
 class Notebook extends Component {
@@ -11,6 +13,7 @@ class Notebook extends Component {
 
     this.state = {
       studyMode: false,
+      notes: props.notes
     }
 
     this.toggleStudyMode = this.toggleStudyMode.bind(this);
@@ -20,25 +23,38 @@ class Notebook extends Component {
     this.setState({ studyMode: !this.state.studyMode });
   }
 
+  shuffleNotes() {
+    alert("shuffling");
+  }
+
   render() {
     return (
-      <div>
-        <label>
-          <Toggle
-            defaultChecked={this.state.studyMode}
-            onChange={this.toggleStudyMode}
-          />
-          <span>Study Mode</span>
-        </label>
+      <div className="notebook">
+        <div className="feature study-mode-wrapper">
+          <label>
+            <Toggle
+              defaultChecked={this.state.studyMode}
+              onChange={this.toggleStudyMode}
+            />
+            <span>Study Mode</span>
+          </label>
+        </div>
+
+        <div className="feature shuffle-wrapper">
+           <RaisedButton
+             icon={<AVShuffle />}
+             primary={true}
+            />
+        </div>
 
         <ol className="notebook">
-          {this.props.notes.map((note, i) => {
+          {this.state.notes.map((note, i) => {
             return (
               <li key={i}>
                 <Note
                   term={note.term}
                   definition={note.definition}
-                  studyMode={this.state.studyMode} 
+                  studyMode={this.state.studyMode}
                 />
               </li>
             );

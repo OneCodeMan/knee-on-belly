@@ -9,7 +9,7 @@ const Note = ({ term, definition, studyMode }) => {
         </p>
 
         <div className={studyMode ? "study-mode" : null}>
-          <ul class="definition">
+          <ul className="definition">
             {definition.map((point, i) => {
               return (
                 <li
