@@ -1,4 +1,16 @@
+.note {
+  width: 60%;
+}
+
 .term {
   font-size: 25px;
   font-weight: 500;
+}
+
+.study-mode {
+  background-color: black;
+}
+
+.study-mode:hover {
+  background-color: white;
 }
