@@ -58,9 +58,98 @@
       "topic_title": "ADHD",
       "content": [
         {
-          "term": "Cognitive model",
-          "definition": ["Abnormality results from maladaptive ways of thinking, interpreting.", "Treatment: change way of thinking through practice and reward"]
-        }
+          "term": "History of ADHD",
+          "definition": ["First described in 1902 by Dr. George Still", "Most researched of all childhood disorders",
+						"<strong> Three subtypes: </strong> ADHD-PI (predominantly inattentive), ADHD-PHI (predominantly hyperactive and impulsive), ADHD-C (combined)"]
+        },
+				{
+					"term": "DSM-5 criteria for ADHD-PI",
+					"definition": ["6 of these for at least 9 months", "doesn't listen when spoken to directly", "hard organizing tasks or activities", "loses things necessary for tasks or activities", "easily distracted"]
+				},
+				{
+					"term": "DSM-5 criteria for ADHD-PHI",
+					"definition": ["6 of these for at least 9 months", "fidgets", "leaves seat at weird times", "can't be quiet", "talks a lot", "interrupts"]
+				},
+				{
+					"term": "Non-diagnostic characteristics",
+					"definition": ["<strong>general social clumsiness</strong>", "egocentric; unaware how others see them", "insensitive to social norms", "hard to read facial expressions"]
+				},
+				{
+					"term": "Epidemiology - Incidence",
+					"definition": ["How many new cases in some time period?"]
+				},
+				{
+					"term": "Epidemiology - Prevalence",
+					"definition": ["How many existing cases in some time period?", "<strong>point prevalence</strong>: how many cases now?", "<strong>annual prevalence</strong>: how many cases in past year?", "<strong>lifetime prevalence</strong>: how many people have it during their lives?"]
+				},
+				{
+					"term": "Assessing incidence and prevalence - Cases per 100 population",
+					"definition": ["Easy to understand, intuitive", "Not good for low frequency disorders"]
+				},
+				{
+					"term": "Assessing incidence and prevalence - Cases per 10000 population",
+					"definition": ["Used for low frequencies", "Not good for high frequency disorders"]
+				},
+				{
+					"term": "Assessing incidence and prevalence - Clinical Estimates",
+					"definition": ["How many appear in clinics with disorder?", "Easy and inexpensive to calculate", "Leads to underestimate of frequency"]
+				},
+				{
+					"term": "Assessing incidence and prevalence - Community Estimates",
+					"definition": ["How many cases in community sample", "Expensive and time-consuming", "Most accurate estimate"]
+				},
+				{
+					"term": "Edidemiology",
+					"definition": ["PHI type starts in nursery/primary school, more common in boys", "PI starts in primary or high school, equally common", "Overall twice as common in boys, more common among teens", "50% of childhood psychiatric patients"]
+				},
+				{
+					"term": "EEG/ERP results",
+					"definition": ["20% have abnormal EEG", "More cortical slow wave activity", "Weaker ERP to stimuli", "Less right > left asymmetry in size of prefrontal cortex"]
+				},
+				{
+					"term": "Imaging results",
+					"definition": ["90% with right cortical lesions have ADHD", "low blood flow in caudate and frontal lobes", "high blood flow in primary sensory cortices", "stimulants reduce flow in sensory cortices, increase flow in basal ganglia", "total brain volume reduction"]
+				},
+				{
+					"term": "Phenotype vs genotype",
+					"definition": ["Phenotype is observable, measurable characteristics", "Genotype is complement of genes"]
+				},
+				{
+					"term": "Twins",
+					"definition": ["Monozygotic: develop from a single fertilized egg adn share 100% of genes", "Dizygotic: two independent eggs, 50% of genes"]
+				},
+				{
+					"term": "Heritability coefficient",
+					"definition": ["Proportion of variability in phenotype accounted for by genetic variability", "h2 = 2(r<sub>mz</sub> - r<sub>dz</sub>)", "Ranges from 0.00 to 1.00", "Refers to populations and it varies"]
+				},
+				{
+					"term": "Heritability",
+					"definition": ["Runs in families more for girls"]
+				},
+				{
+					"term": "Endophenotypes",
+					"definition": ["Can study people without disorder, but with same endophenotype", "Good if disorder is polygenic", "Good if disorder has different causal paths", "Good if several disorders share same endophenotype, learn about both at the same time"]
+				},
+				{
+					"term": "Temperament and ADHD",
+					"definition": [
+						"<b>Extraversion</b>: Based on dopaminergic circuits. Dysfunctional reward circuitry",
+						"<b>Neuroticism</b>: Related to limbic reactivity to stress.",
+						"<b>Conscientiousness</b>: Related to circuitry in prefrontal cortex."
+					]
+				},
+				{
+					"term": "Environment and ADHD",
+					"definition": ["Low birth weight", "Prenatal alcohol exposure", "Maternal diabetes", "Toxin exposure", "Low SES"]
+				},
+				{
+					"term": "ADHD treatment",
+					"definition": [
+						"<b>Stimulants</b>: Ritalin",
+						"Tricyclic antidepressants",
+						"<b>Therapy</b>: Behavior modification, CBT"
+					]
+				}
       ]
 
     }
