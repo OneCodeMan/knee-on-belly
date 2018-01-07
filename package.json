@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@blueprintjs/core": "^1.35.0",
+    "lodash": "^4.17.4",
     "material-ui": "^0.20.0",
     "muicss": "^0.9.35",
     "react": "^16.2.0",

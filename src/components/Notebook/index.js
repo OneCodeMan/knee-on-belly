@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import _ from 'lodash';
 import RaisedButton from 'material-ui/RaisedButton';
 import AVShuffle from 'material-ui/svg-icons/av/shuffle';
 import Note from '../Note';
@@ -17,6 +18,7 @@ class Notebook extends Component {
     }
 
     this.toggleStudyMode = this.toggleStudyMode.bind(this);
+    this.shuffleNotes = this.shuffleNotes.bind(this);
   }
 
   toggleStudyMode() {
@@ -24,7 +26,7 @@ class Notebook extends Component {
   }
 
   shuffleNotes() {
-    alert("shuffling");
+    this.setState({ notes: _.shuffle(this.state.notes )});
   }
 
   render() {
@@ -44,6 +46,7 @@ class Notebook extends Component {
            <RaisedButton
              icon={<AVShuffle />}
              primary={true}
+             onClick={this.shuffleNotes}
             />
         </div>
 
