@@ -152,6 +152,215 @@
 				}
       ]
 
+    },
+		{
+      "topic_title": "Autism",
+      "content": [
+				{
+					"term": "DSM-5 diagnostic criteria - Deficient social interaction, communication",
+					"definition": [
+						"<b>Deficits in social-emotional reciprocity</b>",
+						"Lack of reciprocal conversation",
+						"Reduced sharing of interests, emotions, affect",
+						"Failure to initiate or respond to social interactions",
+						"<b>Deficits in nonverbal communication</b>",
+						"Bad verbal, nonverbal communication",
+						"Abnormal eye contact or body language",
+						"Deficient use and understanding of gestures",
+						"Lack of facial expression and nonverbal communication",
+						"<b>Deficits in developing, maintaining relationships</b>",
+						"Hard adjusting behavior to social context",
+						"Total absence of interest in peers"
+					]
+				},
+				{
+					"term": "DSM-5 diagnostic criteria - Restricted, repetitive patterns of behavior",
+					"definition": [
+						"<b>Insistence on same routines or rituals</b>",
+						"<b>Fixated interests of unusual intensity or focus</b>",
+						"<b>Hyperreactivity to sensory input</b>"
+					]
+				},
+				{
+					"term": "Epidemiology - General",
+					"definition": [
+						"4-5 times as common in boys than girls"
+					]
+				},
+				{
+					"term": "Epidemiology - Comorbidity",
+					"definition": [
+						"70% comorbid for one or more other disorders; 40% for two or more",
+						"intellectual disability: 70%",
+						"adhd: 42%"
+					]
+				},
+				{
+					"term": "Etiology - Psychological processes",
+					"definition": [
+						"70%+ have intellectual disability",
+						"savant abilities like math, music, calendar calculations"
+					]
+				},
+				{
+					"term": "Theory 1: Theory of Mind",
+					"definition": [
+						"Hard to understand others mental states, whether they're lying, joking, being sarcastic"
+					]
+				},
+				{
+					"term": "Face and emotion perception",
+					"definition": [
+						"Sort faces by physical features, not emotions"
+					]
+				},
+				{
+					"term": "Theory 2: Extreme male brain theory",
+					"definition": [
+						"<b>Systematizers:</b> Identify, understand rules that govern a system",
+						"<b>Empathizers:</b> Recognize and respond to feelings of others",
+						"Males are systematizers (weak on empathy)",
+						"Females are empathizers (weak on systematizing)",
+						"Explains social disability in autism. Lack of empathic understanding of others",
+						"Explains islets of special ability. Math, art, music all depend on systematizing",
+						"Explains ritualistic interests. Predictable, systematic behavior"
+					]
+				},
+				{
+					"term": "Theory 3: Intense world theory",
+					"definition": [
+						"Strong response to sensory stimulation",
+						"Brain has too many connections",
+						"Brain hyperreactive to stimuli",
+						"Individual withdraws to cope with chaos",
+						"Amyglada = rapid conditioning of fear. Leads to fear of world and withdrawal"
+					]
+				},
+				{
+					"term": "Theory 4: Empathy imbalance hypothesis",
+					"definition": [
+						"Cognitive vs. emotional empathy",
+						"Cognitive (CE) = understanding others' epistemic mental states",
+						"Emotional (EE) = feeling what others feel as a result of other's emotions",
+						"Autism = high EE, deficient CE",
+						"Evidence: asperger's adults report high levels of distress to others' suffering, data suggest eye contact with others painful for people with autism, adults with autism show more facial EMG affect than other adults when shown happiness, fear"
+					]
+				},
+				{
+					"term": "Major deficits in autism",
+					"definition": [
+						"<b>Social cognition</b>: face recognition, emotion processing",
+						"Language and communication",
+						"Motor behavior and coordination"
+					]
+				},
+				{
+					"term": "Treatment",
+					"definition": [
+						"<b>Applied behavior analysis</b>. Shape and reward positive behaviors. Extinguish undesirable behaviors.",
+						"<b>Teaching social skills</b>",
+						"<b>Pharmacotherapy</b>. Tranquilizers, antidepressants."
+					]
+				}
+      ]
+    },
+		{
+      "topic_title": "Anxiety",
+      "content": [
+				{
+					"term": "DSM-5: Generalized anxiety disorder",
+					"definition": [
+						"Excessive anxiety for 6 months or more, about several events or activities",
+						"Symptoms cause significant distress or impairment in social, occupational, or other important areas of functioning",
+						"Symptoms not due to physiological effects of a substance",
+						"<b>Motor tension symptoms</b>. Trembling, shaking, soreness",
+						"<b>Autonomic hyperactivity symptoms</b>. Nausea, sweating, dizziness",
+						"<b>Vigilance, scanning symptoms</b>. Exaggerated startle response"
+					]
+				},
+				{
+					"term": "Epidemiology",
+					"definition": [
+						"Starts in 20s or 30s",
+						"Annual prevalence in US: 3%",
+						"Lifetime prevalence in US: 5-6%",
+						"Lifetime prevalence worldwide: 2-11%",
+						"65% of those with the disorder are female"
+					]
+				},
+				{
+					"term": "DSM-5: Panic Disorder (PD)",
+					"definition": [
+						"Recurring, unexpected panic attacks",
+						"Annual prevalence US: 3%",
+						"Lifetime prevalence US: 2-5%",
+						"Lifetime prevalence, world: 1.5-3%",
+						"Average age of onset: late 20s",
+						"About 65-75% are female"
+					]
+				},
+				{
+					"term": "DSM-5 criteria for agoraphobia",
+					"definition": [
+						"Fear/anxiety about 2 of the following: using public transport, being in open spaces, being in enclosed places, being in line, being alone outside of home",
+						"More common in women, usual onset in 20s or 30s."
+					]
+				},
+				{
+					"term": "Social phobia",
+					"definition": [
+						"Fear of embarassment or humiliation in social/performance situations",
+						"Situations avoided, or tolerated with anxiety"
+					]
+				},
+				{
+					"term": "Specific phobia",
+					"definition": [
+						"Etiology psychodynamic view: phobic objects are a symbol of inner conflict",
+						"Etiology behavioral view: phobic objects are conditioned stimulus for learned fear"
+					]
+				},
+				{
+					"term": "Behavioral treatments for phobias",
+					"definition": [
+						"<b>Flooding (implosive therapy)</b>. Involves arousal of intense anxiety",
+						"<b>Systematic desensitization therapy</b>. Based on counterconditioning, generalization",
+						"<b>Modelling</b>. Watching other perform feared actions"
+					]
+				},
+				{
+					"term": "Etiology of anxiety",
+					"definition": [
+						"<b>Behavioral symptoms</b>. Avoidance and escape behaviors, ritualistic/repetitive behaviors",
+						"<b>Cognitive symptoms</b>. Intrusive thoughts. Strong, persistent fear.",
+						"<b>Psychological processes</b>. defense mechanisms, response inhibition, emotion regulation",
+						"Brain structure, function, chemistry",
+						"<b>Behavioral</b> PD: Classical conditioning of fear due to unconscious memories"
+					]
+				},
+				{
+					"term": "Genes in anxiety",
+					"definition": [
+						"<b>5-HTT transporter protein</b>. SSRIs target anxiety, depression"
+					]
+				},
+				{
+					"term": "Treatments for anxiety - pharmacological",
+					"definition": [
+						"<b>Anti-anxiety drugs (anxiolytics)</b>. Benzodiazepines.",
+						"<b>Antidepressants</b>. Effexor, paxil."
+					]
+				},
+				{
+					"term": "Treatments for anxiety - psychological",
+					"definition": [
+						"Systematic desensitization",
+						"Flooding/exposure",
+						"Modeling",
+						"Cognitive therapy"
+					]
+				}
+      ]
     }
 	]
 
