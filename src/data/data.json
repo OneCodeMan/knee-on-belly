@@ -4,6 +4,18 @@
     {
       "topic_title": "Intro to Abnormal Psych",
       "content": [
+				{
+					"term": "Epidemiology",
+					"definition": ["Epidemiology is the study of how often diseases occur in different groups of people and why"]
+				},
+				{
+					"term": "Etiology",
+					"definition": ["the cause, set of causes, or manner of causation of a disease or condition."]
+				},
+				{
+					"term": "Comorbidity",
+					"definition": ["the simultaneous presence of two chronic diseases or conditions in a patient."]
+				},
         {
           "term": "Impairment criterion",
           "definition": ["Symptoms impair social, occupational, or other domains of functioning"]
