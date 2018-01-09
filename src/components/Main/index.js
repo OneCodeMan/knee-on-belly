@@ -1,5 +1,5 @@
 import React from 'react';
-import appData from '../../data/data.json';
+import appData from '../../data/notesdata.json';
 import Notebook from '../Notebook';
 import Note from '../Note';
 import './styles.css';
