@@ -1,0 +1,32 @@
+{
+
+	"quiz": [
+    {
+      "topic_title": "Intro to Abnormal Psych",
+      "content": [
+        {
+          "question": "The first edition of the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM) was published in: ",
+          "answer": "1952"
+        },
+        {
+          "question": "The first North American attempt to classify mental disorders occurred",
+          "answer": "in the U.S. census of 1880, which distinguished just seven categories of mental illness."
+        },
+        {
+          "question": "The most recent version of the DSM was released in: ",
+          "answer": "2013"
+        },
+        {
+          "question": "In the most recent version of the DSM, the number of diagnostic categories is closest to",
+          "answer": "300"
+        },
+        {
+          "question": "Suppose we discover that damage to the prefrontal cortex always results in symptoms of ADHD, but only when the individual has a defect in gene P32. ADHD does not occur if the prefrontal cortex is damaged without the P32 defect, or if the P32 defect occurs without prefrontal damage. If there were no other causes for ADHD we could say that: ",
+          "answer": "both prefrontal cortex damage and a P32 defect are necessary causes of ADHD."
+        }
+      ]
+
+    }
+	]
+
+}

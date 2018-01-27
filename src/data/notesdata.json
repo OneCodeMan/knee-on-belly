@@ -16,6 +16,14 @@
 					"term": "Comorbidity",
 					"definition": ["the simultaneous presence of two chronic diseases or conditions in a patient."]
 				},
+				{
+					"term": "Psychopathology",
+					"definition": ["Field concerned with nature and development of abnormal behavior, thoughts, and feelings."]
+				},
+				{
+					"term": "Abnormal behavior",
+					"definition": ["Statistical infrequency", "violation of norms", "personal distress", "disability/dysfunction", "unexpectedness"]
+				},
         {
           "term": "Impairment criterion",
           "definition": ["Symptoms impair social, occupational, or other domains of functioning"]
